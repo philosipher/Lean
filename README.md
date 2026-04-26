@@ -1,2 +1,1 @@
-# Lean
-Lean with me
+
